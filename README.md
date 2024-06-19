@@ -1,5 +1,6 @@
 # Dhall Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/dhall)](https://pkg.fluentci.io/dhall)
 [![ci](https://github.com/fluentci-io/dhall-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/dhall-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [dhall](https://github.com/dhall-lang/dhall-lang).
